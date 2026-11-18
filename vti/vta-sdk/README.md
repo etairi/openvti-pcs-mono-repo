@@ -1,8 +1,8 @@
 # vta-sdk
 
-SDK for [Verifiable Trust Agents](https://github.com/OpenVTC/verifiable-trust-infrastructure)
-operating in Verifiable Trust Communities. Part of the
-[First Person Network](https://www.firstperson.network/white-paper) project.
+SDK for Verifiable Trust Agents
+operating in Verifiable Trust Communities. For background see the
+[First Person Network whitepaper](https://www.firstperson.network/white-paper).
 
 ## Overview
 
