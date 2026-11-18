@@ -498,13 +498,13 @@ digest = "sha256:5332130d91588f6faf8f17f6d7589290db754f4095894538e9c0e395e95cafb
 slug = "device/list"
 version = "0.3"
 type_uri = "https://trusttasks.org/spec/device/list/0.3"
-digest = "sha256:601ee8f0fa38559cdeac89cbdecf7fd3bb51573bd24b1a085fa118bcf05dfe69"
+digest = "sha256:7aa54e535aedf4a54be6f90028d76f0628b5b340339c80a66e59665bdbff3ed4"
 
 [[task]]
 slug = "device/register"
 version = "0.2"
 type_uri = "https://trusttasks.org/spec/device/register/0.2"
-digest = "sha256:d4b414255a250d59ea2605f4aa4f811fcfee0cd271b27ff60ce897224eec533f"
+digest = "sha256:05e029a0966c4a7d94404ebf4df0c8dc4e5a30c9d9657d7f10f9f44f72a9902b"
 
 [[task]]
 slug = "device/set-wake"
